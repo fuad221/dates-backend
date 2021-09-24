@@ -1,0 +1,18 @@
+{
+  "name": "dates-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.2",
+    "mongoose": "^6.0.6",
+    "nodemon": "^2.0.13"
+  }
+}
